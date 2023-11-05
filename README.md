@@ -11,3 +11,4 @@ Description :
       4. Actionable Insight and Recommendation : End goal is to share valuable insights and actionable information that can drive strategic decision making and support the super marketets goal for growth, efficiency and customer satisfaction.
 Screenshot : 
 ![Screenshot (108)](https://github.com/Abhijeetkhodwe/Sales-trend-Analysis-Project/assets/149804905/b3575b75-463d-4067-aa17-2a7ba505eb9c)
+Tech Stack : Ms Excel , Power Bi , 
